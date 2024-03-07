@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali\\source\\repos\\Sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8673FF36-3313-48CF-A051-C897D29F1B69}|Sort\\Sort.csproj|c:\\users\\ali\\source\\repos\\sort\\sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8673FF36-3313-48CF-A051-C897D29F1B69}|Sort\\Sort.csproj|solutionrelative:sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\source\\repos\\Sort\\Sort\\Program.cs",
+              "RelativeDocumentMoniker": "Sort\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali\\source\\repos\\Sort\\Sort\\Program.cs",
+              "RelativeToolTip": "Sort\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T18:38:59.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
